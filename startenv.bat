@@ -1,0 +1,1 @@
+C:\Users\akvo\myenv\Scripts\activate.bat
